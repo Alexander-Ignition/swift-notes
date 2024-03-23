@@ -25,6 +25,11 @@
 - [Result builders](https://github.com/apple/swift-evolution/blob/main/proposals/0289-result-builders.md)
 - [Extend Property Wrappers to Function and Closure Parameters](https://github.com/apple/swift-evolution/blob/main/proposals/0293-extend-property-wrappers-to-function-and-closure-parameters.md)
 - [#if for postfix member expressions](https://github.com/apple/swift-evolution/blob/main/proposals/0308-postfix-if-config-expressions.md)
+- [Opaque Parameter Declarations](https://github.com/apple/swift-evolution/blob/main/proposals/0341-opaque-parameters.md)
+- [buildPartialBlock for result builders](https://github.com/apple/swift-evolution/blob/main/proposals/0348-buildpartialblock.md)
+- [Allow implicit self for weak self captures, after self is unwrapped](https://github.com/apple/swift-evolution/blob/main/proposals/0365-implicit-self-weak-capture.md)
+- [Lift all limitations on variables in result builders](https://github.com/apple/swift-evolution/blob/main/proposals/0373-vars-without-limits-in-result-builders.md)
+- [Observation](https://github.com/apple/swift-evolution/blob/main/proposals/0395-observability.md)
 
 ## WWDC19
 
