@@ -82,3 +82,32 @@
 
 - [SwiftUI on the Mac: Build the fundamentals](https://developer.apple.com/wwdc21/10062)
 - [SwiftUI on the Mac: The finishing touches](https://developer.apple.com/wwdc21/10289)
+
+## WWDC 22
+
+- [What's new in SwiftUI](https://developer.apple.com/wwdc22/10052)
+- [The SwiftUI cookbook for navigation](https://developer.apple.com/wwdc22/10054)
+- [Compose custom layouts with SwiftUI](https://developer.apple.com/wwdc22/10056)
+- [SwiftUI on iPad: Organize your interface](https://developer.apple.com/wwdc22/10058)
+- [The craft of SwiftUI API design: Progressive disclosure](https://developer.apple.com/videos/play/wwdc2022/10059)
+- [Bring multiple windows to your SwiftUI app](https://developer.apple.com/wwdc22/10061)
+- [Meet Transferable](https://developer.apple.com/wwdc22/10062)
+- [Use SwiftUI with UIKit](https://developer.apple.com/wwdc22/10072)
+- [Use SwiftUI with AppKit](https://developer.apple.com/wwdc22/10075)
+- [SwiftUI on iPad: Add toolbars, titles, and more](https://developer.apple.com/wwdc22/110343)
+- [Get it right (to left)](https://developer.apple.com/videos/play/wwdc2022/10107)
+- [Efficiency awaits: Background tasks in SwiftUI](https://developer.apple.com/wwdc22/10142)
+
+## WWDC 23
+
+- [What’s new in SwiftUI](https://developer.apple.com/wwdc23/10148)
+- [Discover Observation in SwiftUI](https://developer.apple.com/wwdc23/10149)
+- [Explore SwiftUI animation](https://developer.apple.com/videos/play/wwdc2023/10156/)
+- [Wind your way through advanced animations in SwiftUI](https://developer.apple.com/wwdc23/10157)
+- [Animate with springs](https://developer.apple.com/wwdc23/10158)
+- [Beyond scroll views](https://developer.apple.com/wwdc23/10159)
+- [Demystify SwiftUI performance](https://developer.apple.com/wwdc23/10160)
+- [Inspectors in SwiftUI: Discover the details](https://developer.apple.com/wwdc23/10161)
+- [The SwiftUI cookbook for focus](https://developer.apple.com/wwdc23/10162)
+- [Animate symbols in your app](https://developer.apple.com/wwdc23/10258)
+- [Discover String Catalogs](https://developer.apple.com/wwdc23/10155)
